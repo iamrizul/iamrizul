@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamrizul
 - 👀 I’m interested in Blockchain Development
-- 🌱 I’m currently learning Solidity, Javascipt and html
+- 🌱 I’m currently working as a backend blockchain developer @onegyft
 - 💞️ I’m looking to collaborate on BlockChain Projects
 - 📫 How to reach me rizuls.tomar010@gmail.com
 
