@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @iamrizul
-- 👀 I’m interested in Blockchain Development
-- 🌱 I’m currently working as a backend blockchain developer @onegyft
-- 💞️ I’m looking to collaborate on BlockChain Projects
+- 👋 Hi, I’m @iamrizul.
+- 👀 I’m interested in Blockchain Development.
+- 🌱 I’m currently working as a blockchain developer @onegyft.
+- 💞️ I’m looking to collaborate on web3 projects.
 - 📫 How to reach me rizuls.tomar010@gmail.com
 
 <!---
