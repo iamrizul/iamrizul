@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamrizul.
-- 👀 I’m interested in Blockchain Development.
-- 🌱 I’m currently working as a blockchain developer @onegyft.
-- 💞️ I’m looking to collaborate on web3 projects.
+- 👀 I’m interested in Data Science and ML.
+- 🌱 I’m currently working as a Analyst in Trendence.
+- 💞️ I’m looking to collaborate on ML projects.
 - 📫 How to reach me rizuls.tomar010@gmail.com
 
 <!---
